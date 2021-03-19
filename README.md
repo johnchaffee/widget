@@ -1,3 +1,3 @@
 # widget
  
-Demo app that embeds the Widget iframe in web page.
+[Demo app](https://johnchaffee.github.io/widget/) that embeds the Widget iframe in web page.
