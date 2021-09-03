@@ -1,3 +1,8 @@
-# widget
+# Zipwhip Widget
+
+This is a very simple example of how to embed the Zipwhip Widget on a web page. It includes two examples:
+
+- Embedding the widget in an iframe on the page.
+- A button that opens the widget in a new window.
  
-[Demo app](https://johnchaffee.github.io/widget/) that embeds the Widget iframe in web page.
+[View a live demo &rarr;](https://johnchaffee.github.io/widget/)
