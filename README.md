@@ -5,8 +5,6 @@ This is a very simple example of how to embed the Zipwhip Widget on a web page. 
 - Embedding the widget in an iframe on the page.
 - A button that opens the widget in a new window.
 
-<a href="https://johnchaffee.github.io/zipwhip-widget/" target="_blank">View a live demo &rarr;</a>
-
 ## How to add a Texting Widget to your CRM
 
 Zipwhip provides a simple and powerful way to integrate two-way conversational text messaging into any app with a single line of code. The Zipwhip Texting Widget is essentially a miniaturized version of Zipwhip’s text messaging web app that can be embedded in a CRM or workflow app to enable two-way conversational texting. 
