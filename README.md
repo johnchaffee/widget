@@ -39,4 +39,8 @@ Or you can open the widget in a popup window by wrapping it in a `javascript:win
 >
 ```
 
-You can do a lot more with the Widget, such as showing and hiding certain components, or locking it to a specific conversation. You can learn more on the [Zipwhip Developer Portal](https://developers.zipwhip.com/widget/).
+You can do a lot more with the Widget, such as locking it to a specific conversation, showing or hiding certain components, and more.
+
+- <a href="https://developers.zipwhip.com/widget/" target="_blank">Learn more on the Zipwhip Developer Portal &rarr;</a>
+- <a href="https://johnchaffee.github.io/zipwhip-widget/" target="_blank">View a live demo &rarr;</a>
+- <a href="https://github.com/johnchaffee/zipwhip-widget" target="_blank">View the Github repo &rarr;</a>
